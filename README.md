@@ -217,6 +217,6 @@ This isn't just code. It's a demonstration of the exact skill you're hiring for:
 
 ## 📧 Contact
 
-Built by: [Nagaraj Moger]
-Email: [nagarajpmoger0@email.com]  
-GitHub: [https://github.com/NaguMoger]
+Built by: [Your Name]  
+Email: [your@email.com]  
+GitHub: [github.com/yourname]
