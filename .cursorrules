@@ -1,0 +1,25 @@
+● ● ●   TERMINAL / COMMAND PROMPT
+# AI Priority Agent - Cursor Rules
+# Cursor reads this file to understand the project
+ 
+## Project Context
+You are helping develop an AI Priority Agent.
+It analyzes tasks and scores them using RICE framework.
+ 
+## Code Style
+- Python: Use type hints everywhere
+- FastAPI: RESTful endpoints, Pydantic models
+- Always output JSON for structured data
+- Always add docstrings to functions
+ 
+## RICE Framework
+Every priority analysis must include:
+- Reach (1-10): How many users/tasks affected
+- Impact (1-10): How much value it creates
+- Confidence (1-10): How sure are we
+- Effort (1-10, lower = easier): How hard is it
+ 
+## Security
+- NEVER hardcode API keys
+- ALWAYS use environment variables
+- NEVER commit .env files
